@@ -7,7 +7,6 @@
 body {
     background-color: #d9dcd6;
     margin: 0 auto;
-    width: 1903px;
 }
 
 /*Header*/
@@ -17,13 +16,13 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;    
-    height: auto;
-    width: 100%;
+    width: 100%; /*This ensures the width of the banner takes up 100% of the width of the page on top*/
 }
 
 .header h1 {
-    display: inline-block;
+    display: inline-block; /*This centers the navigation links onto the*/
     font-size: 48px;
+    line-height: 55px;
 }
 
 .header h1 .seo {
@@ -43,7 +42,7 @@ body {
 }
 
 .header nav ul li {
-    display: inline-block;
+    display: inline-block; /*This makes the nav links display next to eachother rather than under eachother*/
     margin-left: 25px;
 }
 
@@ -57,7 +56,7 @@ a {
 
 
 p {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 
@@ -65,8 +64,8 @@ p {
 /*1st Section Under Header*/
 
 .Image-Under-Header {
-    height: 800px;
-    width: 1903px;
+    height: 800px; /*This sets the height of the image-under-header to stay at 800px*/
+    width: 100%; /*This makes the image-under-header width 100% of the webpage width*/
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
@@ -90,7 +89,7 @@ p {
 }
 
 .content {
-    width: 1500px;
+    width: 75%; /*This makes the content sections only take up 75% of the room on the page*/
     display: inline-block;
     margin-left: 20px;;
 }
@@ -98,14 +97,14 @@ p {
 .Content-Article {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    height: 300px; /*This sets the height of the content sections or the background which is blue*/
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
 .Content-Article img {
-    max-height: 200px;
+    max-height: 200px; /*This sets the height of the images within the content sections to 200px*/
 }
 
 .Content-Article h2 {
@@ -124,8 +123,8 @@ p {
     padding: 20px;
     clear: both;
     float: right;
-    width: 350px;
-    height: 1000px;
+    width: 20%; /*This sets the width of the benifits section to only take up 20% of the page*/
+    height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
@@ -140,7 +139,7 @@ p {
 }
 .Benefit-Aside img {
     display: block; 
-    margin: 20px auto; 
+    margin: 10px auto; 
     max-width: 150px;
 }
 
@@ -161,5 +160,42 @@ p {
 }
 /*End of Footer*/
 
+
+
+/*Responsive for Ipad Pro Test - Get rid of Comments to test if responsive on ipad pro
+ @media only screen and (min-width: 1024px) {
+    .header {
+        padding: 20px;   
+        height: auto;
+        width: 100%;
+    }
+    .header h1 {
+        display: inline-block;
+        font-size: 30px;
+        line-height: 55px;
+        padding-left: 20px;
+    }
+    .Image-Under-Header {
+        width: 100%;
+        height: 500px;
+    }
+    .content {
+        width: 65%;
+    }
+    .content article h2 {
+        margin-bottom: 20px;
+        font-size: 28px;
+    }
+    .Content-Article p {
+        font-size: 20px;
+    }
+    .Content-Article img {
+        width: 200px
+    }
+    .benefits {
+        width: 30%;
+    }
+ }
+ */
 
 
