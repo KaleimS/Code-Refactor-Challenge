@@ -2,7 +2,7 @@
 
 ## Link to Website
 
-(https://kaleims.github.io/Code-Refactor-Challenge/)
+<a href="https://kaleims.github.io/Code-Refactor-Challenge/" target="_blank">Click Here</a>
 
 ## Description
 
@@ -15,7 +15,7 @@ N/A
 
 ## Usage
 
-Link for the website is located here (https://kaleims.github.io/Code-Refactor-Challenge/). **Recommended Brower** would be Chrome as the Ipad Pro can be tested for functionality. To test out the Ipad Pro funtionality you will need to remove the comments for the media queries located in the style.css file. Screenshots will be provided. Remove Line 165 and 199 in the style.css file which is located in assets/css folder images are below. Last set of instructions are at the bottom of the **Usage** section.
+Link for the website is located here <a href="https://kaleims.github.io/Code-Refactor-Challenge/" target="_blank">here</a>. **Recommended Brower** would be Chrome as the Ipad Pro can be tested for functionality. To test out the Ipad Pro funtionality you will need to remove the comments for the media queries located in the style.css file. Screenshots will be provided. Remove Line 165 and 199 in the style.css file which is located in assets/css folder images are below. Last set of instructions are at the bottom of the **Usage** section.
 
 <img src="assets/images/Functional.PNG" alt="image" width="400" height="auto"><img src="assets/images/Functional-Add.PNG" alt="image" width="300" height="335">
 <br>
