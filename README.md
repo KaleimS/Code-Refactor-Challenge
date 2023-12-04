@@ -21,10 +21,7 @@ Link for the website is located here <a href="https://kaleims.github.io/Code-Ref
 <br>
 <img src="assets/images/How-To.PNG" alt="image" width="700" height="auto">
 <br>
-Refer to the picture above. Right click anywhere on the webpage and select inspect element, then refer to the image above and click where the number **1** is located this will open the device tool. And then refer to the image above and click where the number **2** is to open a dropdown box and select **Ipad Pro**
-
-
-
+Refer to the picture above. Right click anywhere on the webpage and select inspect element, then refer to the image above and click where the number **1** is located this will open the device tool. And then refer to the image above and click where the number **2** is to open a dropdown box and select **Ipad Pro**. Once you do this, the page will show what it would look like on an Ipad Pro.
 
 ## License
 
@@ -36,4 +33,4 @@ MIT License
 - Functionality
 - Semantic Structure
 - ↓**Extra**↓ As mentioned in [Usage](#usage)
-- - @media queries
+- @media queries
