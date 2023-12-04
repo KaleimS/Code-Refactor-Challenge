@@ -67,7 +67,7 @@ p {
     height: 800px; /*This sets the height of the image-under-header to stay at 800px*/
     width: 100%; /*This makes the image-under-header width 100% of the webpage width*/
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/marketing-meeting.webp");
     background-size: cover;
     background-position: center;
 }
