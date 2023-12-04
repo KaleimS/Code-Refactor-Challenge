@@ -11,10 +11,14 @@ N/A
 
 ## Usage
 
-Link for the website is located here []. To test out the Ipad Pro funtionality you will need to remove the comments for the media queries located in the style.css file. Screenshots will be provided.
+Link for the website is located here []. **Recommended Brower** would be Chrome as the Ipad Pro can be tested for functionality. To test out the Ipad Pro funtionality you will need to remove the comments for the media queries located in the style.css file. Screenshots will be provided. Remove Line 165 and 199 in the style.css file which is located in assets/css folder images are below. Last set of instructions are at the bottom of the **Usage** section.
 
-![alt text](assets/images/screenshot.png)
-Need to add Comments and Ipad Pro
+<img src="assets/images/Functional.PNG" alt="image" width="400" height="auto"><img src="assets/images/Functional-Add.PNG" alt="image" width="300" height="335">
+<br>
+<img src="assets/images/How-To.PNG" alt="image" width="700" height="auto">
+<br>
+Refer to the picture above. Right click anywhere on the webpage and select inspect element, then refer to the image above and click where the number **1** is located this will open the device tool. And then refer to the image above and click where the number **2** is to open a dropdown box and select **Ipad Pro**
+
 
 
 
@@ -27,6 +31,5 @@ MIT License
 - Accessibility
 - Functionality
 - Semantic Structure
-- **Extra**↓ As mentioned in [Usage](#usage)
-- @media queries
-
+- ↓**Extra**↓ As mentioned in [Usage](#usage)
+- - @media queries
