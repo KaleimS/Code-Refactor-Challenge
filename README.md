@@ -2,7 +2,7 @@
 
 ## Link to Website
 
-<a href="https://kaleims.github.io/Code-Refactor-Challenge/" target="_blank">Click Here</a>
+<a href="https://kaleims.github.io/Horiseon-Test-Page/" target="_blank">Click Here</a>
 
 ## Description
 
